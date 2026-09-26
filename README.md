@@ -1,4 +1,4 @@
-# 👾 Space Invaders (Bash Edition)
+# 👾 Space Shooter (Bash Edition)
 
 Une version revisitée et enrichie du jeu classique Space Invaders, entièrement jouable dans le terminal Linux en Pure Bash.
 
