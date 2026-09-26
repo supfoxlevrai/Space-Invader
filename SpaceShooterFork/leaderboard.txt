@@ -1,0 +1,23 @@
+Le_Boss_ta_capté_la_melo ; 10 pts ; le 14/09/2026 à 12:08
+Le_J ; 19 pts ; le 14/09/2026 à 12:29
+Le_B^ ; 2 pts ; le 14/09/2026 à 12:37 ; ses touches a, ; son vaisseau e,
+m ; 0 pts ; le 14/09/2026 à 12:39 ; ses touches [a, ; son vaisseau e,
+p ; 0 pts ; le 14/09/2026 à 12:44 ; ses touches [a, e, z, q] ; son vaisseau [|, --, *, *]
+m ; 3 pts ; le 14/09/2026 à 18:44 ; ses touches [a, e, z, q] ; son vaisseau [|, --, *, *]
+le_p ; 16 pts ; le 14/09/2026 à 18:52 ; ses touches [a, e, z, q] ; son vaisseau [|, --, *, *]
+p ; 0 pts ; le 14/09/2026 à 18:54 ; ses touches [a, e, z, q] ; son vaisseau [|, --, *, *]
+po ; 0 pts ; le 14/09/2026 à 19:08 ; ses touches [, ,, :, !] ; son vaisseau [|, --, *, *]
+q ; 0 pts ; le 14/09/2026 à 19:09 ; ses touches [a, e, z, q] ; son vaisseau [|, --, *, *]
+^^ ; 1 pts ; le 14/09/2026 à 19:17 ; ses touches [a, z, +, p] ; son vaisseau [A, ll, µ, *]
+Le_R ; 2 pts ; le 14/09/2026 à 19:18 ; ses touches [a, z, +, p] ; son vaisseau [I, ii, Y, $]
+Le_Boss ; 9 pts ; le 14/09/2026 à 19:39 ; ses touches [a, z, +, p] ; son vaisseau [0, --, T, ≜]
+H ; 9 pts ; le 14/09/2026 à 20:01 ; ses touches [a, e, z, q] ; son vaisseau [|, --, *, *]
+a ; 2 pts ; le 14/09/2026 à 20:03 ; ses touches [a, e, z, q] ; son vaisseau [|, --, *, *]
+a ; 1 pts ; le 14/09/2026 à 20:07 ; ses touches [a, e, z, q] ; son vaisseau [|, --, *, *]
+pp ; 1 pts ; le 14/09/2026 à 20:16 ; ses touches  ; son vaisseau 
+<> ; 8 pts ; le 14/09/2026 à 20:19 ; ses touches [a, e, z, q] ; son vaisseau [|, --, *, *]
+ù ; 18 pts ; le 14/09/2026 à 20:21 ; ses touches [a, e, z, q] ; son vaisseau [|, --, *, *]
+IO ; 0 pts ; le 14/09/2026 à 20:21 ; ses touches [a, e, z, q] ; son vaisseau [|, --, *, *]
+mù7 ; 6 pts ; le 14/09/2026 à 20:23 ; ses touches [a, e, z, q] ; son vaisseau [|, --, *, *]
+* ; 8 pts ; le 14/09/2026 à 20:23 ; ses touches [a, e, z, q] ; son vaisseau [|, --, *, *]
+Le_Boss ; 8 pts ; le 27/09/2026 à 00:36 ; ses touches [a, z, +, p] ; son vaisseau [T, ##, 👑, ≜]
