@@ -65,6 +65,7 @@ sudo apt install bc pulseaudio-utils ncurses-bin
 ```
 .
 ├── space.sh             # Script principal du jeu
+├── space_original.sh    # Version originale du jeu ayant servi de base au fork
 ├── changeKeys.sh        # Module de configuration des touches
 ├── changeSpaceShip.sh   # Module de personnalisation du vaisseau
 ├── header.sh            # Entête et affichage du titre
@@ -72,7 +73,10 @@ sudo apt install bc pulseaudio-utils ncurses-bin
 ├── saveScore.sh         # Module d'enregistrement des scores
 ├── gestionQuit.sh       # Gestion des interruptions et du Quit
 ├── onClose.sh           # Nettoyage à la fermeture du jeu
+├── leaderboard.txt      # Classement des scores et pseudos des joueurs
 └── soundEffect/         # Fichiers audio (.wav)
+
+
 ```
 
 ## 🕹️ Lancement & Jouabilité
